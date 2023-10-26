@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZYzdrw4NJIPSaxC/ZOOTjvC4QRLRExYeupbiz5Esvi4=",
+  "Hash": "Fjf8anH/9NneB8gY6TrxpbvkHcei8fBIr4/pJVafJYo=",
   "Source": "personal-info",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "personal-info\\wwwroot",
       "Source": "personal-info",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\personal-info.styles.css",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\personal-info.styles.css",
       "SourceId": "personal-info",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "personal-info.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\personal-info.styles.css"
+      "OriginalItemSpec": "C:\\git\\app\\santhosh-local\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\personal-info.styles.css"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\personal-info.bundle.scp.css",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\personal-info.bundle.scp.css",
       "SourceId": "personal-info",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "personal-info.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\personal-info.bundle.scp.css"
+      "OriginalItemSpec": "C:\\git\\app\\santhosh-local\\personal-info\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\personal-info.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\app.css",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\app.css",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\favicon.ico",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\favicon.ico",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\index.html",
+      "Identity": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\index.html",
       "SourceId": "personal-info",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-info\\wwwroot\\",
+      "ContentRoot": "C:\\git\\app\\santhosh-local\\personal-info\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = personal_data
-build_property.ProjectDir = C:\Users\sanjop\source\repos\personal-info\personal-data\
+build_property.ProjectDir = C:\git\app\santhosh-local\personal-data\

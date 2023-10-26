@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanjop\\source\\repos\\personal-info\\Personal-Service\\Personal-Service.csproj": {}
+    "C:\\git\\app\\santhosh-local\\Personal-Service\\Personal-Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-data\\personal-data.csproj": {
+    "C:\\git\\app\\santhosh-local\\personal-data\\personal-data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-data\\personal-data.csproj",
+        "projectUniqueName": "C:\\git\\app\\santhosh-local\\personal-data\\personal-data.csproj",
         "projectName": "personal-data",
-        "projectPath": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-data\\personal-data.csproj",
-        "packagesPath": "C:\\Users\\sanjop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-data\\obj\\",
+        "projectPath": "C:\\git\\app\\santhosh-local\\personal-data\\personal-data.csproj",
+        "packagesPath": "C:\\Users\\TalCon.localadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\app\\santhosh-local\\personal-data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sanjop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TalCon.localadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,24 +61,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sanjop\\source\\repos\\personal-info\\Personal-Service\\Personal-Service.csproj": {
+    "C:\\git\\app\\santhosh-local\\Personal-Service\\Personal-Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanjop\\source\\repos\\personal-info\\Personal-Service\\Personal-Service.csproj",
+        "projectUniqueName": "C:\\git\\app\\santhosh-local\\Personal-Service\\Personal-Service.csproj",
         "projectName": "Personal-Service",
-        "projectPath": "C:\\Users\\sanjop\\source\\repos\\personal-info\\Personal-Service\\Personal-Service.csproj",
-        "packagesPath": "C:\\Users\\sanjop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanjop\\source\\repos\\personal-info\\Personal-Service\\obj\\",
+        "projectPath": "C:\\git\\app\\santhosh-local\\Personal-Service\\Personal-Service.csproj",
+        "packagesPath": "C:\\Users\\TalCon.localadmin\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\app\\santhosh-local\\Personal-Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sanjop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TalCon.localadmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-data\\personal-data.csproj": {
-                "projectPath": "C:\\Users\\sanjop\\source\\repos\\personal-info\\personal-data\\personal-data.csproj"
+              "C:\\git\\app\\santhosh-local\\personal-data\\personal-data.csproj": {
+                "projectPath": "C:\\git\\app\\santhosh-local\\personal-data\\personal-data.csproj"
               }
             }
           }
@@ -130,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
