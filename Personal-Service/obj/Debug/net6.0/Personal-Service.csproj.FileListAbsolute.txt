@@ -1,0 +1,15 @@
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\bin\Debug\net6.0\Personal-Service.deps.json
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\bin\Debug\net6.0\Personal-Service.dll
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\bin\Debug\net6.0\Personal-Service.pdb
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\bin\Debug\net6.0\personal-data.dll
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\bin\Debug\net6.0\personal-data.pdb
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.csproj.AssemblyReference.cache
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.AssemblyInfoInputs.cache
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.AssemblyInfo.cs
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.csproj.CoreCompileInputs.cache
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.csproj.CopyComplete
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.dll
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\refint\Personal-Service.dll
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\Personal-Service.pdb
+C:\Users\sanjop\source\repos\personal-info\Personal-Service\obj\Debug\net6.0\ref\Personal-Service.dll

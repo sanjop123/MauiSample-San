@@ -1,0 +1,11 @@
+C:\Users\sanjop\source\repos\personal-info\personal-data\bin\Debug\net6.0\personal-data.deps.json
+C:\Users\sanjop\source\repos\personal-info\personal-data\bin\Debug\net6.0\personal-data.dll
+C:\Users\sanjop\source\repos\personal-info\personal-data\bin\Debug\net6.0\personal-data.pdb
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\personal-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\personal-data.AssemblyInfoInputs.cache
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\personal-data.AssemblyInfo.cs
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\personal-data.csproj.CoreCompileInputs.cache
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\personal-data.dll
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\refint\personal-data.dll
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\personal-data.pdb
+C:\Users\sanjop\source\repos\personal-info\personal-data\obj\Debug\net6.0\ref\personal-data.dll
