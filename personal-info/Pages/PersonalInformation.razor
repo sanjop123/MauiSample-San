@@ -1,0 +1,82 @@
+﻿@using MediatR;
+@using personal_info.Data;
+@* @using personal_data; 
+ using Personal_Service;*@
+
+
+<h3>Personal Details</h3>
+
+@page "/personalInformation"
+@inject MediatR.IMediator mediator
+
+
+ <EditForm Model="@personalInfo" OnValidSubmit="SubmitPersonalInfo">
+
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <InputText id="Name" class="form-control" @bind-value="personalInfo.Name"/>
+        <ValidationMessage For="() => personalInfo.Name" />
+    </div>
+
+  @*   <div class="form-group">
+        <label for="Address">Address</label>
+        <InputText id="Address" class="form-control" @bind-value="personalInfo.Address" />
+        <ValidationMessage For="() => personalInfo.Address"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <InputText id="Email" class="form-control" @bind-value="personalInfo.Email" />
+        <ValidationMessage For="() => personalInfo.Email" />
+    </div> *@
+
+
+    <button type="submit">Submit</button>
+
+</EditForm> 
+ 
+
+
+@code {
+    // [Inject]
+    // public IMediator mediator { get; set; }
+
+    PersonalInfo personalInfo = null ;
+
+    // PersonalInfo personalInfo = new PersonalInfo
+    // {
+    //      Name ="Abc", Address ="Address1", Email ="san@san.com"
+    // };
+
+    private async Task SubmitPersonalInfo()
+    {
+        try
+        {
+         //   personalInfo = new PersonalInfo();
+            if (personalInfo != null)
+            {
+                // var request = new PersonalInfo
+                //     {
+                //         Name = personalInfo.Name,
+                //         Email = personalInfo.Email,
+                //         Address = personalInfo.Address
+                //     };
+                if (mediator != null)
+                {
+                    await mediator.Send(personalInfo);
+                }
+                else
+                {
+                        
+                }
+            }            
+        }
+        catch (Exception ex)
+        {
+                throw ex;
+            }
+        }
+
+
+
+}
